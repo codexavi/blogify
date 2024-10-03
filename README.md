@@ -1,7 +1,7 @@
 
 ### README.md:
 
-# Laravel Blog & Admin Dashboard
+# Laravel Blog system
 
 This is a Laravel project that includes a **Blog System** with an **Admin Dashboard** functionality. It allows users to create, view, and manage blog posts, and provides admins with additional control to manage users and posts.
 
