@@ -30,8 +30,8 @@ Follow these steps to set up the project:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/laravel-blog-admin-dashboard.git
-cd laravel-blog-admin-dashboard
+git clone https://github.com/codexavi/blogify.git
+cd blogify
 ```
 
 ### Step 2: Install Composer Dependencies
