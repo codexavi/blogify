@@ -96,7 +96,7 @@ php artisan migrate
 Seed the database with default **admin** and **regular user** credentials:
 
 ```bash
-php artisan db:seed --class=UserSeeder
+php artisan db:seed
 ```
 
 This will create the following users:
